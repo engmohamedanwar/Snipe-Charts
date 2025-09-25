@@ -21,7 +21,7 @@ Our mission is to build a complete ecosystem for traders, including:
 - **Mohamed Gamal – Video Editor**  
   Handles video and reel editing to ensure marketing messages are delivered effectively.
 
-- **Roland Sameh – Designer**  
+- **Rolan Sameh – Designer**  
   Responsible for visual designs and contributes to content marketing.
 
 - **Sondos Mahmoud – Content Writer**  
