@@ -5,7 +5,7 @@
 
 ## 💡 Project Idea  
 **SnipeCharts** is an academic awareness project that aims to simplify and clarify the world of trading and investing for beginners.  
-The project highlights the common struggles new traders face — conflicting analyses, unreliable tools, and emotional decision-making — and presents a new, data-driven perspective through the **SnipeCharts ecosystem**.
+The project highlights the common struggles new traders face conflicting analyses, unreliable tools, and emotional decision-making and presents a new, data-driven perspective through the **SnipeCharts ecosystem**.
 
 The project focuses on creating a **comprehensive awareness and educational campaign** that includes:
 
